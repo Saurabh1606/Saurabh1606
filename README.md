@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on Project and Hackathon
 - 🤔 I’m looking for help with Open Source
-- 💬 Ask me about ...
 - 📫 How to reach me: saurabhshinde825@gmail.com
 
 
