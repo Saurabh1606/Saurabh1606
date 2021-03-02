@@ -1,16 +1,16 @@
 ### Hey,I'm Saurabh 👋
 
-<!--
-**Saurabh1606/Saurabh1606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm saurabh from pune( India ). Some technologies I enjoy working with include AngularJs, Spring with microservices and AWS. 
-Here are some ideas to get you started:
+# I'm saurabh from pune, India:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+## ✌ Skills 
+-Java
+-Spring with Microservices
+-AngularJs
+-Deep Learning
+- 🌱 I’m currently learning AWS
+- 👯 I’m looking to collaborate on Project and Hackathon
+- 🤔 I’m looking for help with Open Source
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: saurabhshinde825@gmail.com
+
+
