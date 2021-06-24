@@ -1,6 +1,6 @@
 ## Hey,I'm Saurabh 👋
 
-### I'm Saurabh From Pune, India
+### I'm From Pune, India
 
 ## ✌ Skills 
 - 🙌   Java
