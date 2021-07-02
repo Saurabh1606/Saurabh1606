@@ -11,7 +11,7 @@
 
 ✔ 😃 🎭
 
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Docker and Kubernetes
 - 👯 I’m looking to collaborate on Project and Hackathon
 - 🤔 I’m looking for help with Open Source
 - 📫 How to reach me: saurabhshinde825@gmail.com
