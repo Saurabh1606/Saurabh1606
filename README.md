@@ -10,7 +10,7 @@
 
 I'm a Senior Software Engineer with 4+ years of experience building **scalable microservices** that handle **millions of daily transactions**. Passionate about high-performance systems, cloud-native architecture, and leveraging AI to solve complex engineering problems.
 
-- 🏆 **Best Performer 2024** at Accelya Solutions
+- 🏆 **Best Performer 2024** 
 - 📊 Built systems processing **1.2M+ daily transactions** with **99.9% uptime**
 - ⚡ Achieved **70% latency reduction** through performance optimization
 - 🔬 Published researcher in **IEEE conferences** (Machine Learning & GANs)
