@@ -102,7 +102,7 @@ I'm a Senior Software Engineer with nearly 4 years of experience building **scal
 - 🔨 Building **high-throughput microservices** handling millions of transactions
 - 🤖 Leveraging **GenAI & LLMs** (GitHub Copilot, GPT-4) for enhanced development workflows
 - ☁️ Architecting **cloud-native solutions** on AWS with containerized deployments
-- 🔐 Implementing **enterprise security** (OAuth2, JWT, SSO, MFA) for financial systems
+- 🔐 Implementing **enterprise security** (OAuth2, JWT, SSO, MFA)
 - 📈 Performance optimization achieving **sub-200ms response times** at scale
 
 ---
