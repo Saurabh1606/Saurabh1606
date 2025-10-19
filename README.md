@@ -1,108 +1,245 @@
-# Hey, I'm Saurabh Shinde 👋
+<div align="center">
 
-**Senior Backend Engineer | Microservices Architect | AI/ML Enthusiast**
+# 🚀 Saurabh Shinde
 
-📍 Pune, India | 🔗 [Portfolio](https://my-portfolio-lly4.vercel.app/) 
+### Senior Backend Engineer • Microservices Architect • Performance Enthusiast
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabh-shinde)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portfolio-lly4.vercel.app/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sirusrocks)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabhshinde825@gmail.com)
 
-## 🚀 About Me
+**📍 Pune, India** • **💼 4+ Years Experience** • **🏆 Best Performer 2024**
 
-I'm a Senior Software Engineer with 4+ years of experience building **scalable microservices** that handle **millions of daily transactions**. Passionate about high-performance systems, cloud-native architecture, and leveraging AI to solve complex engineering problems.
-
-- 🏆 **Best Performer 2024** 
-- 📊 Built systems processing **1.2M+ daily transactions** with **99.9% uptime**
-- ⚡ Achieved **70% latency reduction** through performance optimization
-- 🔬 Published researcher in **IEEE conferences** (Machine Learning & GANs)
-- 🌟 **5-star coder** on CodeChef (Global Rank: 246/29,626)
+</div>
 
 ---
 
-## 💻 Tech Stack
-
-### **Backend & Architecture**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=microgenetics&logoColor=white)
-
-### **Databases & Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### **AI/ML & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-
-### **Frontend**
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🎯 Quick Highlights
+```javascript
+const saurabh = {
+    location: "Pune, India 🇮🇳",
+    role: "Senior Software Engineer @ Accelya",
+    experience: "4+ years",
+    
+    achievements: {
+        scale: "1.2M+ daily transactions",
+        performance: "70% latency reduction",
+        uptime: "99.9% system availability",
+        recognition: "Best Performer 2024"
+    },
+    
+    currentFocus: [
+        "Building high-performance microservices",
+        "AI-assisted development (Copilot, GPT-4)",
+        "Cloud-native architecture on AWS",
+        "Performance optimization at scale"
+    ],
+    
+    openTo: ["Backend Engineering", "System Design", "Open Source", "Hackathons"]
+};
+```
 
 ---
 
-## 🎯 What I'm Working On
+## ⚡ Core Expertise
 
-- 🔨 Building **high-throughput microservices** handling millions of transactions
-- 🤖 Leveraging **GenAI & LLMs** (GitHub Copilot, GPT-4) for enhanced development workflows
-- ☁️ Architecting **cloud-native solutions** on AWS with containerized deployments
-- 🔐 Implementing **enterprise security** (OAuth2, JWT, SSO, MFA) for financial systems
-- 📈 Performance optimization achieving **sub-200ms response times** at scale
+<table>
+<tr>
+<td width="50%">
+
+### Backend Development
+- **Languages:** Java 8/11, Python, Scala
+- **Frameworks:** Spring Boot, Hibernate
+- **Architecture:** Microservices, Event-Driven
+- **Performance:** Query Optimization, Caching
+
+</td>
+<td width="50%">
+
+### Cloud & Infrastructure
+- **Cloud:** AWS (EC2, S3, RDS), Azure
+- **Containers:** Docker, Kubernetes
+- **CI/CD:** Jenkins, Git, Maven
+- **Messaging:** Kafka, RabbitMQ
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Data & Storage
+- **Databases:** PostgreSQL, Oracle, Cassandra
+- **Caching:** Redis
+- **Real-time:** Kafka Streams
+- **Performance:** 70% latency reduction
+
+</td>
+<td width="50%">
+
+### AI & Security
+- **AI/ML:** TensorFlow, PyTorch, GenAI, LLMs
+- **Security:** OAuth2, JWT, SSO, MFA
+- **Research:** Published in IEEE conferences
+- **Tools:** GitHub Copilot, GPT-4
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 💼 Professional Impact
 
-- 🥇 **Best Performer 2024** - Accelya Solutions
-- ⭐ **5-Star Coder** - CodeChef (Global Rank: 246/29,626)
-- 📝 **Published Researcher** - IEEE/ACIS SNPD 2022, SERA 2024
-- 🎖️ **LeetCode Rank 4,974** - Strong algorithmic problem-solving
-- 🏅 **Top 20** - IEEE Delhi Code E Bit Competition
+<div align="center">
 
----
+| Metric | Achievement |
+|--------|-------------|
+| 📊 **Daily Transactions** | 1.2M+ with 99.9% uptime |
+| ⚡ **Performance Boost** | 70% latency reduction |
+| 🔐 **Security** | 85% reduction in incidents |
+| 👥 **Concurrent Users** | 50K+ with sub-200ms response |
+| 🚀 **APIs Built** | 25+ high-performance RESTful |
+| 💰 **Business Value** | $45M annual operations |
 
-## 📚 Research Publications
-
-### [Instructions with Complex Control-Flow Entailing Machine Learning](https://ieeexplore.ieee.org/document/10051797)
-**IEEE/ACIS SNPD 2022**  
-Applied reinforcement learning with attention-based encoding for multi-task instruction processing.
-
-### [Leveraging Conditional GANs for Cosmic Microwave Background Separation](https://doi.ieeecomputersociety.org/10.1109/SERA61261.2024.10685557)
-**IEEE/ACIS SERA 2024**  
-Developed GAN-based approach for CMB data separation with validated robustness.
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🏆 Recognition & Achievements
 
-- 🌐 **Portfolio:** [my-portfolio-lly4.vercel.app](https://my-portfolio-lly4.vercel.app/)
-- 👨‍💻 **CodeChef:** [@sirusrocks](https://www.codechef.com/users/sirusrocks)
-- 📧 **Email:** saurabhshinde825@gmail.com
+<div align="center">
+
+🥇 **Best Performer 2024** • Accelya Solutions
+
+⭐ **5-Star Coder** • CodeChef (Rank 246/29,626)
+
+📝 **IEEE Published Researcher** • Machine Learning & GANs
+
+🎖️ **LeetCode 4,974** • Top 5% globally
+
+🏅 **Hackathon Winner** • Multiple coding competitions
+
+</div>
 
 ---
 
-## 💡 Open to Opportunities
+## 📈 GitHub Activity
 
-- 👯 **Collaboration:** Open to projects involving microservices, AI/ML, or fintech
-- 🎯 **Hackathons:** Love participating in coding competitions and hackathons
-- 🌱 **Open Source:** Looking to contribute to meaningful open-source projects
-- 💼 **Opportunities:** Interested in backend engineering roles at scale-focused companies
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saurabh1606&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh1606&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh1606&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+
+</div>
+
+---
+
+## 🔬 Research Contributions
+
+### 📄 [Complex Control-Flow with Machine Learning](https://ieeexplore.ieee.org/document/10051797)
+**IEEE/ACIS SNPD 2022** | Reinforcement Learning • Neural Networks • Attention Mechanisms
+
+### 📄 [GANs for Cosmic Microwave Background](https://doi.ieeecomputersociety.org/10.1109/SERA61261.2024.10685557)
+**IEEE/ACIS SERA 2024** | Generative Models • Data Separation • Deep Learning
+
+---
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+
+### Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+### AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+```python
+class CurrentProjects:
+    def __init__(self):
+        self.primary = [
+            "Scaling microservices to 1M+ transactions/day",
+            "Performance optimization (70% latency reduction achieved)",
+            "Enterprise security implementations (OAuth2, SSO, MFA)",
+            "AI-assisted development workflows"
+        ]
+        
+        self.learning = [
+            "Advanced Kubernetes orchestration",
+            "GenAI & LLM integration patterns",
+            "Event-driven architecture at scale",
+            "Cloud cost optimization"
+        ]
+        
+        self.open_to = {
+            "collaboration": ["Open source projects", "Hackathons", "Tech talks"],
+            "opportunities": ["Backend engineering", "System architecture", "Fintech"],
+            "mentoring": ["Junior developers", "University students"]
+        }
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+### I'm always open to interesting conversations and collaboration opportunities!
+
+**💬 Best way to reach me:** [saurabhshinde825@gmail.com](mailto:saurabhshinde825@gmail.com)
+
+**🤝 Looking to collaborate on:**
+- 🚀 High-performance backend systems
+- 🤖 AI/ML integration projects
+- 🏆 Competitive programming & hackathons
+- 📚 Open source contributions
+
+**🌟 Currently exploring:**
+- Cloud-native architecture patterns
+- GenAI applications in software development
+- Advanced system design principles
+- Performance engineering at scale
+
+---
+
+### 💭 *"Code with purpose, optimize with passion, scale with precision"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Saurabh1606&style=flat-square&color=blue)
+[![GitHub followers](https://img.shields.io/github/followers/Saurabh1606?style=flat-square&logo=github)](https://github.com/Saurabh1606)
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 *"Building scalable systems that power millions of transactions daily"*
+**⭐ Star my repositories if you find them useful!**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Saurabh1606&color=brightgreen)
+**🍴 Fork them to build something amazing!**
 
 </div>
