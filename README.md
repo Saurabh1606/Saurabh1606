@@ -2,7 +2,7 @@
 
 **Senior Backend Engineer | Microservices Architect | AI/ML Enthusiast**
 
-📍 Pune, India | 🔗 [Portfolio](https://my-portfolio-lly4.vercel.app/) | 💼 [LinkedIn](https://linkedin.com/in/saurabh-shinde)
+📍 Pune, India | 🔗 [Portfolio](https://my-portfolio-lly4.vercel.app/) 
 
 ---
 
@@ -60,20 +60,6 @@ I'm a Senior Software Engineer with 4+ years of experience building **scalable m
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saurabh1606&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saurabh1606&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh1606&theme=radical)
-
-</div>
-
----
-
 ## 🏆 Achievements & Recognition
 
 - 🥇 **Best Performer 2024** - Accelya Solutions
@@ -98,7 +84,6 @@ Developed GAN-based approach for CMB data separation with validated robustness.
 
 ## 🤝 Let's Connect!
 
-- 💼 **LinkedIn:** [linkedin.com/in/saurabh-shinde](https://linkedin.com/in/saurabh-shinde)
 - 🌐 **Portfolio:** [my-portfolio-lly4.vercel.app](https://my-portfolio-lly4.vercel.app/)
 - 👨‍💻 **CodeChef:** [@sirusrocks](https://www.codechef.com/users/sirusrocks)
 - 📧 **Email:** saurabhshinde825@gmail.com
